@@ -32,7 +32,7 @@
    
 ## 对于微信Web端无法登陆的小伙伴请注意
 
-请使用 ```pip install itchat-uos==1.5.0.dev0``` 安装后，web版本可用。
+请使用 ```pip install itchat-uos==1.5.0.dev``` 安装后，web版本可用。
 
 ## 配置信息
 
